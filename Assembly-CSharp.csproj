@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\ApplePickerScript.cs" />
      <Compile Include="Assets\Scripts\AppleScript.cs" />
      <Compile Include="Assets\Scripts\BasketScript.cs" />
+     <Compile Include="Assets\Scripts\GateScript.cs" />
      <Compile Include="Assets\Scripts\TreeScript.cs" />
  <Reference Include="UnityEngine.Networking">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
